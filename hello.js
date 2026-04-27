@@ -2,6 +2,7 @@ const readline = require('readline');
 
 function showMenu() {
 	console.log('Hello World');
+	console.log('Hello SCW');
 	console.log('Simple Menu:');
 	console.log('1. Option 1');
 	console.log('2. Option 2');
