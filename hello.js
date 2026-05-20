@@ -1,6 +1,7 @@
 const readline = require('readline');
 
 function showMenu() {
+	console.log('Timestamp:', new Date().toISOString());
 	console.log('Hello World!');
 	console.log('Simple Menu:');
 	console.log('1. Option 1');
