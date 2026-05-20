@@ -1,7 +1,7 @@
 const readline = require('readline');
 
 function showMenu() {
-	console.log(new Date().toLocaleString());
+	console.log('Timestamp' + new Date().toLocaleString());
 	console.log('Hello World');
 	console.log('Hello SCW');
 	console.log('Simple Menu Options:');
