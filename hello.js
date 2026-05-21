@@ -7,7 +7,7 @@ function showMenu() {
 	console.log('3. Option 3');
 	console.log('Choose an option (1, 2, or 3):');
 	//const result = 1 + 1;
-	console.log(result);
+	//console.log(result);
 }
 
 const rl = readline.createInterface({
