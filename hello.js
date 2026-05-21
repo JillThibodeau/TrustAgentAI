@@ -1,6 +1,7 @@
 const readline = require('readline');
 
-function showMenu() {
+function showMenu() {	
+	console.log('Hello World');	
 	console.log('Simple Menu Options:');
 	console.log('1. Option 1');
 	console.log('2. Option 2');
