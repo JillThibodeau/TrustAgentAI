@@ -6,7 +6,7 @@ function showMenu() {
 	console.log('2. Option 2');
 	console.log('3. Option 3');
 	console.log('Choose an option (1, 2, or 3):');
-	const result = 1 + 1;
+	//const result = 1 + 1;
 	console.log(result);
 }
 
