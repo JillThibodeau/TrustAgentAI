@@ -33,5 +33,6 @@ rl.question('Enter your choice: ', (answer) => {
 		default:
 			console.log('Invalid option.');
 	}
+	console.log('User option pressed: ' + answer.trim());
 	rl.close();
 });
