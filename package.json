@@ -1,0 +1,12 @@
+{
+  "name": "trust-agent-ai",
+  "version": "1.0.0",
+  "description": "Menu application with SQLite database",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}
